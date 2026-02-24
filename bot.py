@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token from environment variable
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '8725750503:AAEu6QCctOyUKxUyJa-Gqpw8-bzCA6frDfk')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8779758731:AAEhsNAFGycPMB6cY45jW5xaqFvfwCm8xWA')
 
 # List of channels to join (replace with your channel usernames)
 # Format: @channelusername
